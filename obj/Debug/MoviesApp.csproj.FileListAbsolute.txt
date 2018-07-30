@@ -1,0 +1,7 @@
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\bin\Debug\MoviesApp.exe.config
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\bin\Debug\MoviesApp.exe
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\bin\Debug\MoviesApp.pdb
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\obj\Debug\MoviesApp.csprojResolveAssemblyReference.cache
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\obj\Debug\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\obj\Debug\MoviesApp.exe
+C:\Users\scull\source\repos\MoviesApp.Library\MoviesApp\obj\Debug\MoviesApp.pdb
